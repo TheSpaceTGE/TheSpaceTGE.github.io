@@ -2,7 +2,7 @@
 # TheSpaceTGE Team
 Follow Us On Twitter
 [@Bacon_Space](http://twitter.com/Bacon_Space)
-[@AMTraxTGE](http://twitter.com/AMTraxTGE)---
+[@AMTraxTGE](http://twitter.com/AMTraxTGE)
 
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/Bacon_Space.svg?style=social?style=flat-square) 
