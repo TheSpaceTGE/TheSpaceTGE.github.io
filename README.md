@@ -1,5 +1,6 @@
+---
 # TheSpaceTGE Team
----- Follow Us On Twitter
+Follow Us On Twitter
 [@Bacon_Space](http://twitter.com/Bacon_Space)
 [@AMTraxTGE](http://twitter.com/AMTraxTGE)---
 
